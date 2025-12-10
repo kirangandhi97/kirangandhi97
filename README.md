@@ -21,6 +21,28 @@ ____________ _____ _   _ _____ _____ _   _______  ______ _____ _   _ _____ _    
 
 ---
 
+## 🛠️ Tech Stack  
+
+### 🎨 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,angular,redux,scss,less,bootstrap,tailwind,styledcomponents,materialui,jquery" />
+</p>
+
+### ⚙️ Backend  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,graphql" />
+</p>
+
+### 🚀 Tools & Platforms  
+<p>
+  <img src="https://skillicons.dev/icons?i=vite,npm,git,github,postman,figma,vscode,webflow" />
+</p>
+
+### 🌐 Reach me on LinkedIn
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kiran-gandhi7/)  
+
+---
+
 ```bash
 const kiran = {
     code: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
@@ -49,22 +71,3 @@ const kiran = {
     funFact: "I can spend hours perfecting a micro-interaction ✨"
 };
 ```
-## 🛠️ Tech Stack  
-
-### 🎨 Frontend  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,angular,redux,scss,less,bootstrap,tailwind,styledcomponents,materialui,jquery" />
-</p>
-
-### ⚙️ Backend  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,graphql" />
-</p>
-
-### 🚀 Tools & Platforms  
-<p>
-  <img src="https://skillicons.dev/icons?i=vite,npm,git,github,postman,figma,vscode,webflow" />
-</p>
-
-### 🌐 Reach me on LinkedIn
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kiran-gandhi7/)  
