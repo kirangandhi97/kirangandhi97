@@ -23,8 +23,8 @@ ____________ _____ _   _ _____ _____ _   _______  ______ _____ _   _ _____ _    
 
 ```bash
 const kiran = {
-    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-    askMeAbout: ["Frontend Developer", "UI Engineering", "Animations", "Design Systems"],
+    code: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
+    askMeAbout: ["Full Stack Development", "Frontend Engineering", "Backend APIs", "UI/UX Engineering", "Animations", "Design Systems"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js", "Vue", "Angular"],
@@ -32,18 +32,20 @@ const kiran = {
             uiLibraries: ["Material UI", "Mantine", "Ant Design"],
         },
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node.js", "Express"],
+            apiStyles: ["REST", "GraphQL"]
         },
-        tools: ["Vite", "Webpack", "Figma"],
-        devOps: ["GitHub Actions", "Docker🐳"],
         databases: ["MongoDB", "PostgreSQL", "Firebase"],
-        misc: ["Webflow", "Framer Motion", "GSAP", "REST APIs"],
+        devOps: ["GitHub Actions", "Docker", "Vercel", "Netlify"],
+        tools: ["Vite", "Webpack", "Figma", "Postman", "VS Code"],
+        misc: ["Webflow", "WordPress", "Framer Motion", "GSAP"]
     },
     architecture: {
         frontEnd: ["SPA", "SSR"],
-        backEnd: ["API First"],
+        backEnd: ["API-First", "Microservices (learning)"],
+        patterns: ["Component-Driven Development", "MVC", "Monorepos (Turborepo)"]
     },
-    currentFocus: "Building polished UI experiences & mastering web performance",
+    currentFocus: "Becoming a stronger full-stack engineer & mastering web performance",
     funFact: "I can spend hours perfecting a micro-interaction ✨"
 };
 ```
