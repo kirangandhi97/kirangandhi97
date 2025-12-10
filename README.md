@@ -67,7 +67,7 @@ const kiran = {
         backEnd: ["API-First", "Microservices (learning)"],
         patterns: ["Component-Driven Development", "MVC", "Monorepos (Turborepo)"]
     },
-    currentFocus: "Becoming a stronger full-stack engineer & mastering web performance",
+    currentFocus: "Building full-stack systems that are fast, scalable, and impossible to ignore",
     funFact: "I can spend hours perfecting a micro-interaction ✨"
 };
 ```
