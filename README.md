@@ -30,7 +30,7 @@ ____________ _____ _   _ _____ _____ _   _______  ______ _____ _   _ _____ _    
 
 ### ⚙️ Backend  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,graphql,python,django" />
 </p>
 
 ### 🚀 Tools & Platforms  
