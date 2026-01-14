@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h2>
 <p>
-  <em>Frontend Developer with 4+ years of experience  
+  <em>Frontend Developer with 5+ years of experience  
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   </em>
 </p>
